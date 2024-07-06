@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Mi Primer Post"
-date: 2024-07-06
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 Aquí está el contenido de mi primer post.
