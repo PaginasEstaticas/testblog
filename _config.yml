@@ -1,7 +1,7 @@
 title: Mi Sitio
 description: "Descripción de mi sitio"
-baseurl: ""
-url: "https://tu-usuario.github.io"
+baseurl: "/testblog"
+url: "https://paginasestaticas.github.io"
 lsi: false
 safe: true
 highlighter: rouge
