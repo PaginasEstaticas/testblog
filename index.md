@@ -4,7 +4,7 @@ title: "Página Principal"
 ---
 
 # Bienvenido a mi sitio
-Aquí están mis entradas de blog, pepito 2:
+Aquí están mis entradas de blog:
 
 {% for post in site.posts %}
 **Título del post:** {{ post.title }}  
