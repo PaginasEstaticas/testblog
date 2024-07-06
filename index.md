@@ -7,5 +7,10 @@ title: "Página Principal"
 Aquí están mis entradas de blog:
 
 {% for post in site.posts %}
+{{ post.title }}
+{{ site.url }}
+{{ site.baseurl }}
+{{ post.url }}
+---
 * [{{ post.title }}]({{ site.url }}{{ site.baseurl }}{{ post.url }})
 {% endfor %}
