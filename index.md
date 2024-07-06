@@ -7,5 +7,5 @@ title: "Página Principal"
 Aquí están mis entradas de blog:
 
 {% for post in site.posts %}
-* [{{ post.title }}]({{ post.url | prepend: site.baseurl | relative_url }})
+* [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
