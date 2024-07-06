@@ -1,0 +1,10 @@
+title: Mi Sitio
+description: "Descripción de mi sitio"
+baseurl: ""
+url: "https://tu-usuario.github.io"
+lsi: false
+safe: true
+highlighter: rouge
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
